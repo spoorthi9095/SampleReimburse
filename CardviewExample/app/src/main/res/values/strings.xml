@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cardview Example</string>
+    <string name="title">Card View</string>
+    <string name="description">this basically is an example</string>
+</resources>
